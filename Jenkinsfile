@@ -1,4 +1,4 @@
-node('Bulit-In')
+node('built-in')
 
                                         {
                                                     stage('ContinuousDownload_loans')
